@@ -1,5 +1,7 @@
 .foto{
-  background-image: URL("");
+  background-image: URL("https://i.pinimg.com/originals/6a/d8/b0/6ad8b00bd2587a60da7194803790042a.gif");
   background-repeat: no-repeat;
   background-size:50%;
+  width:50px;
+  height: 50px;
 }
